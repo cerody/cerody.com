@@ -1,0 +1,15 @@
+# bundler config
+/.bundle
+
+# build directory
+/build
+
+# cache
+/.sass-cache
+/.cache
+
+# .DS_store file
+.DS_Store
+
+# Gemfile.lock
+Gemfile.lock
