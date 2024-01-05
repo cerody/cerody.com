@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Überprüfungsdatei für Domänen-Eigentümerschaft für Microsoft 365-Position im Website-Root",
+  "Domain": "cerody.com",
+  "Id": "51e2889e-1976-416e-8f16-1807f6bea694"
+}
